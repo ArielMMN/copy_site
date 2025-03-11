@@ -1,0 +1,43 @@
+.intro {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 10px;
+}
+
+.intro div{
+    margin: 4px;
+}
+
+.intro img{
+    height: 200px;
+}
+
+#titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    flex-wrap: wrap;
+    background-color: rgba(143, 45, 143, 0.74);
+    color: white;
+    font-size: 30pt;
+    height: 200px;
+    width: 200px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.navbar a {
+    color: blue;
+    font-size: 18px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
